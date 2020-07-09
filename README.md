@@ -1,1 +1,1 @@
-![Woah!](https://github.com/Novian227/Novian227/blob/master/screenshot-4.png)
+![Woah!](https://github.com/Novian227/Novian227/blob/master/screenshot-3.png)
