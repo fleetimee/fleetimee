@@ -8,5 +8,9 @@
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/333600/122355823e167816ba6d45ef755f6f904dd580ee.png">
   <br><br>
   <samp>
+    Im Novian Andika
+     <br><br>Contact me on <a href="mailto:novian.andika@students.amikom.ac.id">Email</a>
+  </samp>
+</p>
   </samp>
 </p>
