@@ -11,9 +11,8 @@
   <samp>
     Im Novian Andika
      <br><br>Contact me on <a href="mailto:novian.andika@students.amikom.ac.id">Email</a>
-    
-    [![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
   </samp>
+  [![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
 </p>
   </samp>
 </p>
