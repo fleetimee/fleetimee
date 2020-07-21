@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-[![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=novian227&show_icons=true&theme=radical" alt="Novian227 github stats" /></a>
 </p>
