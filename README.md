@@ -17,4 +17,6 @@
   </samp>
 </p>
 
+<p align="center">
 [![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
+</p>
