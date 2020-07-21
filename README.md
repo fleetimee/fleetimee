@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-<a href=""><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=novian227&show_icons=true&theme=radical" alt="Novian227 github stats" /></a>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=novian227&show_icons=true&theme=radical" alt="Novian227 github stats" /></a>
 </p>
