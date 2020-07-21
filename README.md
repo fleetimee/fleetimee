@@ -1,5 +1,5 @@
 ### Hi Github 👋
-[![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/333600/732897f371cf2f40f0af5fe9f9cdb42f090d7bdb.png">
@@ -11,6 +11,8 @@
   <samp>
     Im Novian Andika
      <br><br>Contact me on <a href="mailto:novian.andika@students.amikom.ac.id">Email</a>
+    
+    [![Novian227 github stats](https://github-readme-stats.vercel.app/api?username=novian227)](https://github.com/anuraghazra/github-readme-stats)
   </samp>
 </p>
   </samp>
