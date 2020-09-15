@@ -10,7 +10,6 @@
   <br><br>
   <samp>
     Im Novian Andika
-     <br><br>Contact me on <a href="mailto:novian.andika@students.amikom.ac.id">Email</a>
   </samp>
   
 </p>
