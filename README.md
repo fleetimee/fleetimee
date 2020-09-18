@@ -16,6 +16,3 @@
   </samp>
 </p>
 
-<p align="center">
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fleetimee&show_icons=true&theme=radical" alt="Novian227 github stats" /></a>
-</p>
