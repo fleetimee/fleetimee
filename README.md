@@ -1,4 +1,4 @@
-### Hi Github 👋
+
 
 
 <p align="center">
@@ -8,9 +8,7 @@
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/333600/002e35df0131b2358d93e0983d2feb98a93b82cf.png">
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/333600/122355823e167816ba6d45ef755f6f904dd580ee.png">
   <br><br>
-  <samp>
-    Im Novian Andika
-  </samp>
+
   
 </p>
   </samp>
