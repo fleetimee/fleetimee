@@ -13,5 +13,5 @@ Also i love From Software games (Dark Souls, Dark Souls 2, Dark Souls 3, Sekiro,
 * 📫 How to reach me?
 Feel free to reach me out on any platforms [here](https://fleetime.my.id)
 
-[![fleetimee's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetimee&theme=dracula&layout=compact)](https://github.com/fleetimee)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleetimee&theme=dracula&layout=compact">
 
