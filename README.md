@@ -15,3 +15,7 @@ Feel free to reach me out on any platforms [here](https://fleetime.my.id)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleetimee&theme=dracula&layout=compact">
 
+
+[![fleetime wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fleetime&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
