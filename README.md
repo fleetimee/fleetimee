@@ -6,7 +6,7 @@
 ![cff34ad343b069ea6920464ad17d4bcf](https://user-images.githubusercontent.com/45744788/142763915-e51e42f6-9372-4aaa-a0b9-1fe543cc46fc.jpg)
 
 
-fleetime fleetime fleetime [here](https://fleetime.my.id)
+fleetime fleetime fleetime [fleetime](https://fleetime.my.id)
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleetimee&theme=dracula&layout=compact"> -->
 
