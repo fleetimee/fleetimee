@@ -371,17 +371,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 356kb of code in 496 edited files across 368 commits over last 28 days</small>
+                <small>estimation from 353kb of code in 484 edited files across 353 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.3333333333333" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="319.3333333333333" y="0" width="99.52254641909815" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="418.85587975243146" y="0" width="37.331564986737405" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.1874447391688" y="0" width="3.6268788682581787" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.814323607427" y="0" width="0.1856763925729443" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.8993805945516" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="317.8993805945516" y="0" width="100.53707694996214" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="418.4364575445137" y="0" width="37.71212209471661" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.1485796392303" y="0" width="3.6638511873555855" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.8124308265859" y="0" width="0.18756917341410848" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,7 +393,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>69.42%</div>
+                                <div>69.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -404,7 +404,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>8.12%</div>
+                                <div>8.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -428,7 +428,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>21.64%</div>
+                                <div>21.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -439,7 +439,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.79%</div>
+                                <div>0.8%</div>
                             </small>
                         </div>
                     </section>
@@ -2773,7 +2773,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2024, 08:42:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2024, 20:17:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
